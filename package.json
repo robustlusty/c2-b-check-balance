@@ -1,0 +1,29 @@
+{
+  "name": "c1-a-gas-convert",
+  "version": "1.0.0",
+  "description": "c1-a-gas-convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robustlusty/c1-a-gas-convert.git"
+  },
+  "keywords": [
+    "c1-a-gas-convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "robustlusty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robustlusty/c1-a-gas-convert/issues"
+  },
+  "homepage": "https://github.com/robustlusty/c1-a-gas-convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
